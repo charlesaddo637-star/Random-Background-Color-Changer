@@ -13,7 +13,7 @@ This project is a simple JavaScript application that changes the background colo
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 - **HTML** for structure
 - **CSS** for styling (optional, not included in this file)
 - **JavaScript (ES6)** for functionality
