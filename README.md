@@ -1,11 +1,11 @@
 # Random-Background-Color-Changer
-# 🎨 Random Background Color Generator
+#  Random Background Color Generator
 
 This project is a simple JavaScript application that changes the background color of a webpage to a random dark shade when a button is clicked. It also displays the selected color’s hex code on the page.
 
 ---
 
-## 📌 Features
+##  Features
 - Generates a random dark color from a predefined list.
 - Updates the background color of the page dynamically.
 - Displays the hex code of the chosen color.
@@ -20,7 +20,7 @@ This project is a simple JavaScript application that changes the background colo
 
 ---
 
-## 🚀 How It Works
+##  How It Works
 1. A list of dark color hex codes is stored in an array.
 2. When the button (`#btn`) is clicked:
    - A random index is generated.
@@ -30,4 +30,3 @@ This project is a simple JavaScript application that changes the background colo
 
 ---
 
-## 📂 Project Structure
